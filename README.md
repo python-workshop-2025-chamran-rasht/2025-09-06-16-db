@@ -46,5 +46,5 @@
 3. فلاسک را اجرا کنید
 
    ```sh
-   flask --app exercise run
+   flask run
    ```
